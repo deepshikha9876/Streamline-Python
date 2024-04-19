@@ -38,3 +38,14 @@ Explore and enjoy the interactive dashboard!
 
 # Screenshots:
 
+![Streamlit](https://github.com/deepshikha9876/Streamline-Python/assets/139794978/2fde33a5-bb0b-422c-bbb9-73435bf97550)
+
+![streamlitmm](https://github.com/deepshikha9876/Streamline-Python/assets/139794978/39e49894-70d3-46a0-b36e-3a3055c2981f)
+
+![streeeem](https://github.com/deepshikha9876/Streamline-Python/assets/139794978/add66c88-9432-406f-971a-f4c12cc33df4)
+
+![streammmmm](https://github.com/deepshikha9876/Streamline-Python/assets/139794978/8c347ad1-5e81-4529-a783-9358252f5945)
+
+![straennn](https://github.com/deepshikha9876/Streamline-Python/assets/139794978/cba1dc50-563b-4655-bef2-cb8d574c1c7b)
+
+
