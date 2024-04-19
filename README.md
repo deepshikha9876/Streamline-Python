@@ -12,7 +12,7 @@ A dynamic and user-friendly interactive dashboard created using Streamlit, desig
 # Clone the Repository:
 - bash
 - Copy code
-- git clone https://github.com/Akanshi23/Streamline.git
+- git clone https://github.com/Deepshikha9876/Streamline-Python.git
 
 # Run the Dashboard:
 - bash
@@ -38,16 +38,3 @@ Explore and enjoy the interactive dashboard!
 
 # Screenshots:
 
-![Streamlit](https://github.com/Akanshi23/Streamline/assets/121331739/30d029ee-f172-4f3d-b6d6-55dd9b6f4bc8)
-
-![streamlitmm](https://github.com/Akanshi23/Streamline/assets/121331739/ec79d2e3-a1b6-4f14-9d1e-972bd6acc17c)
-
-![streeeem](https://github.com/Akanshi23/Streamline/assets/121331739/0ea204fe-cd36-4356-af39-c17761f95afc)
-
-![streammmmm](https://github.com/Akanshi23/Streamline/assets/121331739/a64a1136-694b-4055-87cb-b1f239fc99f8)
-
-![straennn](https://github.com/Akanshi23/Streamline/assets/121331739/12275e69-7193-48f6-8a05-39055ac4ece2)
-
-![streammmm](https://github.com/Akanshi23/Streamline/assets/121331739/fd07e13a-bca6-4e29-b580-0cfdb29748c6)
-
-![stream](https://github.com/Akanshi23/Streamline/assets/121331739/700deeca-437a-43e0-887c-edcb5e77d277)
